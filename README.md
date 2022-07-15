@@ -74,7 +74,7 @@ writing the code to wire up the "Create Toy" button.
 
 ## Instructions
 
-### Fetch Andy's Toys
+### Fetch Andy's Toys COMPLETE
 
 On the `index.html` page, there is a `div` with the `id` "toy-collection."
 
@@ -82,7 +82,7 @@ When the page loads, make a 'GET' request to fetch all the toy objects. With the
 response data, make a `<div class="card">` for each toy and add it to the
 toy-collection `div`.
 
-### Add Toy Info to the Card
+### Add Toy Info to the Card COMPLETE
 
 Each card should have the following child elements:
 
@@ -104,7 +104,7 @@ After all of that, the toy card should look something like this:
 </div>
 ```
 
-### Add a New Toy
+### Add a New Toy COMPLETE
 
 When a user submits the toy form, two things should happen:
 

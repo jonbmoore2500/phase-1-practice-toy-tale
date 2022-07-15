@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Wall-e",
+      "image": "https://static.wikia.nocookie.net/pixar/images/d/de/Wall%E2%80%A2e_clipped_rev_1.png/revision/latest?cb=20170807223723",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Wall-e",
+      "image": "https://static.wikia.nocookie.net/pixar/images/d/de/Wall%E2%80%A2e_clipped_rev_1.png/revision/latest?cb=20170807223723",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Wall-e",
+      "image": "https://static.wikia.nocookie.net/pixar/images/d/de/Wall%E2%80%A2e_clipped_rev_1.png/revision/latest?cb=20170807223723",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
