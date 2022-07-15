@@ -134,7 +134,7 @@ body: JSON.stringify({
 
 For examples, refer to the [documentation][fetch docs].
 
-### Increase a Toy's Likes
+### Increase a Toy's Likes COMPLETE
 
 When a user clicks on a toy's like button, two things should happen:
 
